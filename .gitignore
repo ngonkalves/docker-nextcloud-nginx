@@ -1,0 +1,5 @@
+.env
+mariadb_password
+mariadb_root_password
+nextcloud_admin_user
+nextcloud_admin_password
